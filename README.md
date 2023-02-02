@@ -10,5 +10,6 @@ Bu kısımda ise;
  kısımlarının kodları bulunmakta
  
  ## BookStore-V3
- Bu kısımda ise BookStore-V2 ya ek olarak Modellerin doğrulanması ve Validation Kütüphaesinin kullanılması bulunmakta
+ Bu kısımda ise BookStore-V2 ya ek olarak 
+  * Modellerin doğrulanması ve Validation Kütüphaesinin kullanılması bulunmakta
 
